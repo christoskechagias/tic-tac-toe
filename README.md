@@ -17,6 +17,7 @@ $ cd tic-tac-toe
   
 ### <b> 2. Run App </b> <br/>
 <pre>
+$ cd tic-tac-toe
 $ npm install
 $ expo start -c
 </pre>
