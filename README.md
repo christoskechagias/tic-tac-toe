@@ -41,8 +41,8 @@ The app will open in the Expo client on your mobile device. If you don't have th
 ## How to Play
 
 1. Open the app on both players' devices.
-2. Player 1 selects their symbol (X or O) and starts the game.
-3. Players take turns tapping on a square to place their symbol.
-6. The first player to get three symbols in a row (horizontally, vertically, or diagonally) wins the game.
-7. If all squares are filled and no player has won, the game ends in a draw.
+2. The first player to tap on a square will be assigned the symbol "X" and the second player will be assigned the symbol "O".
+3. Players take turns tapping on empty squares to place their symbol.
+4. The first player to get three symbols in a row (horizontally, vertically, or diagonally) wins the game.
+5. If all squares are filled and no player has won, the game ends in a draw.
 
