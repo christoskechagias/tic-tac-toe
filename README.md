@@ -2,10 +2,10 @@
 
 This is a simple Tic Tac Toe game developed in React Native that allows users to play the classic game on their mobile devices.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/70820055/169206336-7e66471b-bfcc-4fc1-b877-1d0246cc7c5e.png" width="200">
-  <img src="https://user-images.githubusercontent.com/70820055/169206342-2e81e8ba-c021-491b-9605-303b8d19e868.png" width="200">
-  <img src="https://user-images.githubusercontent.com/70820055/169206366-79b31af6-7d35-4271-879f-355f8744ccfa.png" width="200">
-  <img src="https://user-images.githubusercontent.com/70820055/169206395-e89d49ef-7ced-446e-8f99-ace9f93d0496.png" width="200">
+  <img src="https://user-images.githubusercontent.com/70820055/169206336-7e66471b-bfcc-4fc1-b877-1d0246cc7c5e.png" width="200" height="400">
+  <img src="https://user-images.githubusercontent.com/70820055/169206342-2e81e8ba-c021-491b-9605-303b8d19e868.png" width="200" height="400">
+  <img src="https://user-images.githubusercontent.com/70820055/169206366-79b31af6-7d35-4271-879f-355f8744ccfa.png" width="200" height="400">
+  <img src="https://user-images.githubusercontent.com/70820055/169206395-e89d49ef-7ced-446e-8f99-ace9f93d0496.png" width="200" height="400">
 </p>
 
 ## Features
