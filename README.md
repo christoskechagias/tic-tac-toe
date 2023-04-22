@@ -48,5 +48,5 @@ The app will open in the Expo client on your mobile device. If you don't have th
 
 ## License
 
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
