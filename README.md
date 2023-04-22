@@ -1,6 +1,7 @@
 # tic-tac-toe
 
 This is a simple Tic Tac Toe game developed in React Native that allows users to play the classic game on their mobile devices.
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/70820055/169206336-7e66471b-bfcc-4fc1-b877-1d0246cc7c5e.png" height="360">
   <img src="https://user-images.githubusercontent.com/70820055/169206342-2e81e8ba-c021-491b-9605-303b8d19e868.png" height="360">
@@ -44,4 +45,8 @@ The app will open in the Expo client on your mobile device. If you don't have th
 3. Players take turns tapping on empty squares to place their symbol.
 4. The first player to get three symbols in a row (horizontally, vertically, or diagonally) wins the game.
 5. If all squares are filled and no player has won, the game ends in a draw.
+
+## License
+
+This project is licensed under the MIT License - see the `LICENSE` file for details.
 
