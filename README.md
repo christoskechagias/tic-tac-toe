@@ -1,4 +1,4 @@
-# tic-tac-toe
+# Τic Τac Τoe
 
 This is a simple Tic Tac Toe game developed in React Native that allows users to play the classic game on their mobile devices.
 
