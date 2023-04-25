@@ -24,17 +24,17 @@ This is a simple Tic Tac Toe game developed in React Native that allows users to
 
 To get started, clone the repository to your local machine:
 ```
-$ git clone https://github.com/kechayias/tic-tac-toe.git
+git clone https://github.com/kechayias/tic-tac-toe.git
 ```
 Then, navigate to the project directory and install the dependencies:
 ```
-$ cd tic-tac-toe
-$ npm install
+cd tic-tac-toe
+npm install
 ```
   
 Finally, start the app:
 ```
-$ expo start -c
+expo start -c
 ```
 The app will open in the Expo client on your mobile device. If you don't have the Expo client installed, you can download it from the [App Store](https://apps.apple.com/app/apple-store/id982107779) or [Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_US&gl=US).
 
